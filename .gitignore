@@ -14,6 +14,8 @@ vectorstore/
 # VS Code Settings
 .vscode/
 
+data/sample.pdf
+
 # OS Files
 .DS_Store
 Thumbs.db
